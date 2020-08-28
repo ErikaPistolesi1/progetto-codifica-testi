@@ -1,0 +1,130 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 20%;
+    background-color: #FFCC66;
+    margin-top: 30;
+}
+
+#content{
+    width: 77%;
+    margin-left: 18%;
+}
+h1 {
+  font-family: arial, sans-serif;
+    font-size: 300%;
+    text-align:center;
+    position: inherit;
+    margin-top: 40px;
+}
+
+/* Menu */
+header{
+        width:100%;
+        margin-top:0px;
+        margin-left:0px;
+        margin-right:0px;
+        background-color:#ffbf00;
+        text-align: center;
+        padding: 0px;
+        margin: 0px;
+        -webkit-box-shadow: 15px 15px 9px 0px rgba(255, 223, 128);
+        -moz-box-shadow:    15px 15px 9px 0px rgba(255, 198, 26);
+        box-shadow:         15px 15px 9px 0px rgba(255, 249, 230);
+    }
+    header h1{
+        color: white;
+        font-family: arial, serif;
+        text-align:center;
+        margin-top: 1%;
+        letter-spacing:5px;
+    }
+
+    header nav ul { 
+        text-align: center;
+        width: 100%;    
+        padding:0px;
+        margin:0px auto;
+        display:block;
+    }
+
+    header nav li {
+        display:inline; 
+    }
+
+    header nav a {
+        color: white;   
+        font-family: arial, sans-serif;
+        text-align:center; 
+        text-decoration:none; 
+        background: #ffbf00; 
+        margin: auto;
+    }
+
+    header nav a:hover {
+        background: #ffbf00; 
+    }
+
+
+
+/* Link */
+
+a{
+    text-decoration: blue;
+    color: #000000;
+}
+
+/* Titoli */
+
+
+h2{
+    text-align: center;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 100%;
+}
+
+h3 {
+    font-family: arial-black, sans-serif;
+ text-align: left;
+    font-weight: normal;
+    font-size: 100%;
+}
+p {
+     text-align: center;
+     font-size: 30;
+     font-family: sans-serif;
+}
+
+/* Evidenze */
+
+.item_list{
+    font-weight: bold;
+    display: block;
+
+}
+/*immagini*/
+#logo {
+    margin: 3px 0px 3px 4px;
+    vertical-align: middle;
+    width: 90%;
+}
+img{
+    margin-top: 100px;
+    width: 300px;
+    height:400;
+     margin-left: 700px;
+   
+}
+ #letter-body {
+     
+     font-style: bold;
+    font-size: 90%;
+    float: left;
+    text-align:center;
+    margin-top: 90;
+}
+ span.strike {
+ text-decoration: line-through;
+
+}
