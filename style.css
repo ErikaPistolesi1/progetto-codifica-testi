@@ -1,0 +1,119 @@
+body {
+
+   background-color:#FAEBD7;
+    margin-top: 0;
+	 font-family: arial, sans-serif, italic;
+   padding: 0;
+   padding-left: 5%;
+
+
+}
+
+
+
+ h1 {
+    margin-top: 10px;
+    text-align: center;
+      font-size: 30px;
+
+    
+}
+h2.id {
+  margin-top: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+h3 {
+    text-align: left;
+     margin-top: 10px;
+     font-size: 30px;
+     background-color:#FAEBD7;
+
+
+}
+
+/* Menu */
+header{
+
+        width:50%;
+        background-color:#ffbf00;
+        font-family: arial, serif;
+        text-align:center;
+    }
+    
+ nav { 
+        text-align: center;
+        font-size: 20px;
+        width: 80%;    
+        padding:0px;
+        margin: auto;
+        display: block;
+    }
+
+ nav.a {
+        color: white;   
+        font-family: arial, serif;
+        text-align:center; 
+        background: #ffbf00; 
+        margin: auto;
+    }
+
+
+/* Evidenze */
+
+.item_list{
+    font-weight: bold;
+    display: block;
+
+}
+/*immagini*/
+
+#img1 {
+
+float:right; 
+margin-right: 5%;
+display:block; 
+width:60%; 
+height:90%; 
+cursor: pointer; 
+  
+   
+}
+#img2 {
+float:right; 
+margin-right: 5%;
+display:block;
+width:60%; 
+height:90%;
+cursor: pointer; 
+
+}
+
+
+ #lettera2 {
+    
+
+margin-top: 10px;
+margin-bottom: 0;
+
+     
+}
+#front {
+ margin-top:0;
+  font-size: 20px;
+ 
+}
+
+#bibl {
+  text-align: left;
+  margin-bottom: 5%;
+
+
+}
+#note {
+  text-align: left;
+  margin-bottom: 5%;
+
+}
+/*basso*/
